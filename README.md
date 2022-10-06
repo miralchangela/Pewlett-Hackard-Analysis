@@ -1,2 +1,2 @@
-# Pewlett-Hackard-Analysis-
-PH analysis using SQL language in PGadmin 4 software.
+# Pewlett Hackard Analysis
+Click on the link to view PH analysis code:

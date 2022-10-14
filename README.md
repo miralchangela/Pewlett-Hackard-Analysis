@@ -37,6 +37,16 @@ The purpose of our project is to determine the number of employees retired withi
 
 ![mentorship_eligibility](https://github.com/miralchangela/Pewlett-Hackard-Analysis/blob/main/table%20images/mentorship_eligibility.png)
 
+# Summary :
+- Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+1) How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
+  
+      72,458 roles are in urgent need to be filled out as soon as the workforce starts retiring at any given time.
+  
+2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+  
+      No, we have 1,549 employees who are eligible to participate in a mentorship program which shows in preceding image of employee list of mentorship.
+
 # Conclusion:
 
 - we can see that 63% of the workforce is either retirment or mentorship eligible there will most likely be many positions to fill over the next few years. 

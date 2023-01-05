@@ -3,7 +3,7 @@ Click on the link to view PH analysis code :  [PH Analysis](https://github.com/m
 
 # Purpose of the project:
 
-The purpose of our project is to determine the number of employees retired within few years and also identify how many employees are eligible for mentorship program. In this Analysis also gives information about how many employee retired by departments. Analysis helps manager to deal with upcoming sitution in company.
+The purpose of our project is to determine the number of employees retired within few years and also identify how many employees are eligible for mentorship program. In this Analysis also gives information about how many employee retired by departments. Analysis helps manager to deal with upcoming situation in company.
 
 # The Results:
 
